@@ -1,0 +1,214 @@
+<div> </div>
+<div>Afghanistan </div>
+<div>Albania 13,119,013,351</div>
+<div>Algeria 207,955,103,846</div>
+<div>American Samoa </div>
+<div>Andorra </div>
+<div>Angola 114,197,143,594</div>
+<div>Antigua and Barbuda 1,176,348,888</div>
+<div>Argentina 474,865,096,196</div>
+<div>Armenia 9,910,387,657</div>
+<div>Aruba </div>
+<div>Australia 1,520,608,083,022</div>
+<div>Austria 399,649,131,197</div>
+<div>Azerbaijan 67,197,738,735</div>
+<div>Bahamas, The 8,149,004,000</div>
+<div>Bahrain </div>
+<div>Bangladesh 115,609,650,525</div>
+<div>Barbados </div>
+<div>Belarus 63,267,017,440</div>
+<div>Belgium 483,709,179,738</div>
+<div>Belize </div>
+<div>Benin 7,557,286,829</div>
+<div>Bermuda </div>
+<div>Bhutan 1,779,561,112</div>
+<div>Bolivia 27,035,110,167</div>
+<div>Bosnia and Herzegovina 17,047,582,420</div>
+<div>Botswana 14,410,993,364</div>
+<div>Brazil 2,252,664,120,777</div>
+<div>Brunei Darussalam 16,953,952,625</div>
+<div>Bulgaria 51,030,480,061</div>
+<div>Burkina Faso 10,441,012,681</div>
+<div>Burundi 2,471,954,069</div>
+<div>Cambodia 14,061,796,429</div>
+<div>Cameroon 24,983,980,484</div>
+<div>Canada 1,821,424,139,311</div>
+<div>Cape Verde 1,897,350,475</div>
+<div>Cayman Islands </div>
+<div>Central African Republic 2,138,965,636</div>
+<div>Chad 11,018,023,538</div>
+<div>Chile 268,313,656,099</div>
+<div>China 8,227,102,629,831</div>
+<div>Colombia 369,812,739,540</div>
+<div>Comoros 595,900,353</div>
+<div>Congo, Dem. Rep. 17,869,718,210</div>
+<div>Congo, Rep. 13,677,928,884</div>
+<div>Costa Rica 45,127,292,711</div>
+<div>Cote d'Ivoire 24,680,372,724</div>
+<div>Croatia 56,441,607,483</div>
+<div>Cuba </div>
+<div>Curacao </div>
+<div>Cyprus 22,980,960,640</div>
+<div>Czech Republic 195,656,544,503</div>
+<div>Denmark 314,242,037,117</div>
+<div>Djibouti </div>
+<div>Dominica 479,638,820</div>
+<div>Dominican Republic 58,951,239,186</div>
+<div>Ecuador 84,532,444,000</div>
+<div>Egypt, Arab Rep. 257,285,845,358</div>
+<div>El Salvador 23,786,800,000</div>
+<div>Equatorial Guinea 17,697,394,251</div>
+<div>Eritrea 3,091,837,398</div>
+<div>Estonia 21,854,197,101</div>
+<div>Ethiopia 43,133,073,100</div>
+<div>Faeroe Islands </div>
+<div>Fiji 3,881,890,698</div>
+<div>Finland 250,024,427,873</div>
+<div>France 2,612,878,387,760</div>
+<div>French Polynesia </div>
+<div>Gabon 18,661,104,043</div>
+<div>Gambia, The 917,292,053</div>
+<div>Georgia 15,829,300,979</div>
+<div>Germany 3,399,588,583,183</div>
+<div>Ghana 40,710,447,429</div>
+<div>Greece 249,098,684,277</div>
+<div>Greenland </div>
+<div>Grenada 789,542,404</div>
+<div>Guam </div>
+<div>Guatemala 50,806,430,482</div>
+<div>Guinea 6,767,919,333</div>
+<div>Guinea-Bissau 897,408,214</div>
+<div>Guyana 2,850,572,407</div>
+<div>Haiti 7,843,484,458</div>
+<div>Honduras 17,967,497,441</div>
+<div>Hong Kong SAR, China 263,259,372,905</div>
+<div>Hungary 125,507,525,410</div>
+<div>Iceland 13,656,532,880</div>
+<div>India 1,841,717,371,770</div>
+<div>Indonesia 878,043,028,442</div>
+<div>Iran, Islamic Rep. </div>
+<div>Iraq 210,279,947,256</div>
+<div>Ireland 210,330,986,080</div>
+<div>Isle of Man </div>
+<div>Israel </div>
+<div>Italy 2,013,263,114,239</div>
+<div>Jamaica 14,839,858,411</div>
+<div>Japan 5,959,718,262,199</div>
+<div>Jordan 31,243,324,000</div>
+<div>Kazakhstan 201,680,160,955</div>
+<div>Kenya 37,229,405,067</div>
+<div>Kiribati 175,709,257</div>
+<div>Korea, Dem. Rep. </div>
+<div>Korea, Rep. 1,129,598,273,324</div>
+<div>Kosovo 6,237,563,675</div>
+<div>Kuwait </div>
+<div>Kyrgyz Republic 6,473,175,648</div>
+<div>Lao PDR 9,298,926,552</div>
+<div>Latvia 28,373,857,404</div>
+<div>Lebanon 42,945,273,632</div>
+<div>Lesotho 2,447,573,299</div>
+<div>Liberia 1,767,121,781</div>
+<div>Libya </div>
+<div>Liechtenstein </div>
+<div>Lithuania 42,245,532,390</div>
+<div>Luxembourg 57,117,125,225</div>
+<div>Macao SAR, China 43,582,271,462</div>
+<div>Macedonia, FYR 9,663,203,711</div>
+<div>Madagascar 9,975,124,872</div>
+<div>Malawi 4,263,794,984</div>
+<div>Malaysia 303,526,203,366</div>
+<div>Maldives 2,222,429,330</div>
+<div>Mali 10,308,146,676</div>
+<div>Malta 8,721,923,077</div>
+<div>Marshall Islands 186,901,200</div>
+<div>Mauritania 4,199,051,817</div>
+<div>Mauritius 10,492,013,574</div>
+<div>Mexico 1,177,271,329,644</div>
+<div>Micronesia, Fed. Sts. 327,200,000</div>
+<div>Moldova 7,254,113,625</div>
+<div>Monaco </div>
+<div>Mongolia 10,271,393,281</div>
+<div>Montenegro 4,231,452,000</div>
+<div>Morocco 96,729,450,169</div>
+<div>Mozambique 14,587,709,350</div>
+<div>Myanmar </div>
+<div>Namibia 12,807,113,496</div>
+<div>Nepal 19,414,664,133</div>
+<div>Netherlands 772,226,793,520</div>
+<div>New Caledonia </div>
+<div>New Zealand </div>
+<div>Nicaragua 10,507,356,838</div>
+<div>Niger 6,568,231,896</div>
+<div>Nigeria 262,605,908,770</div>
+<div>Northern Mariana Islands </div>
+<div>Norway 499,667,211,001</div>
+<div>Oman </div>
+<div>Pakistan 231,181,921,490</div>
+<div>Palau 228,415,735</div>
+<div>Panama 36,252,500,000</div>
+<div>Papua New Guinea 15,653,921,367</div>
+<div>Paraguay 25,502,060,502</div>
+<div>Peru 197,110,985,682</div>
+<div>Philippines 250,265,341,493</div>
+<div>Poland 489,795,486,644</div>
+<div>Portugal 212,454,101,311</div>
+<div>Puerto Rico 101,495,811,266</div>
+<div>Qatar </div>
+<div>Romania 169,395,940,257</div>
+<div>Russian Federation 2,014,774,938,342</div>
+<div>Rwanda 7,103,000,861</div>
+<div>Samoa 677,041,351</div>
+<div>San Marino </div>
+<div>Sao Tome and Principe 263,729,026</div>
+<div>Saudi Arabia </div>
+<div>Senegal 14,159,758,386</div>
+<div>Serbia 37,488,935,010</div>
+<div>Seychelles 1,032,178,034</div>
+<div>Sierra Leone 3,796,030,045</div>
+<div>Singapore 274,701,299,734</div>
+<div>Sint Maarten (Dutch part) </div>
+<div>Slovak Republic 91,619,230,769</div>
+<div>Slovenia 45,469,230,770</div>
+<div>Solomon Islands 1,008,424,232</div>
+<div>Somalia </div>
+<div>South Africa 384,312,674,446</div>
+<div>South Sudan 9,337,312,682</div>
+<div>Spain 1,349,350,732,836</div>
+<div>Sri Lanka 59,421,426,075</div>
+<div>St. Kitts and Nevis 748,492,572</div>
+<div>St. Lucia 1,186,225,298</div>
+<div>St. Martin (French part) </div>
+<div>St. Vincent and the Grenadines 712,589,074</div>
+<div>Sudan 58,768,800,833</div>
+<div>Suriname 4,738,181,820</div>
+<div>Swaziland 3,746,506,333</div>
+<div>Sweden 525,742,140,221</div>
+<div>Switzerland 632,193,558,707</div>
+<div>Syrian Arab Republic 73,672,408,036</div>
+<div>Tajikistan 6,986,537,406</div>
+<div>Tanzania 28,248,844,763</div>
+<div>Thailand 365,564,375,702</div>
+<div>Timor-Leste 1,292,700,000</div>
+<div>Togo 3,813,834,650</div>
+<div>Tonga 471,591,244</div>
+<div>Trinidad and Tobago 23,985,710,493</div>
+<div>Tunisia 45,662,043,358</div>
+<div>Turkey 789,257,487,307</div>
+<div>Turkmenistan 33,678,947,368</div>
+<div>Turks and Caicos Islands </div>
+<div>Tuvalu 36,874,581</div>
+<div>Uganda 19,881,412,441</div>
+<div>Ukraine 176,308,825,694</div>
+<div>United Arab Emirates </div>
+<div>United Kingdom 2,435,173,775,671</div>
+<div>United States 15,684,800,000,000</div>
+<div>Uruguay 49,059,705,190</div>
+<div>Uzbekistan 51,112,745,669</div>
+<div>Vanuatu 785,356,717</div>
+<div>Venezuela, RB 382,424,454,340</div>
+<div>Vietnam 141,669,099,289</div>
+<div>Virgin Islands (U.S.) </div>
+<div>West Bank and Gaza </div>
+<div>Yemen, Rep. 35,645,823,132</div>
+<div>Zambia 20,678,025,802</div>
+<div>Zimbabwe 10,813,914,265</div>

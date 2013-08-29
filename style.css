@@ -1,0 +1,47 @@
+body {
+	background-color: #A7C2E3;
+	font-family: Tahoma, sans-serif;
+	width: 700px;
+	margin:auto;
+}
+
+#table {
+
+	padding-top: 50px;
+	padding-left: 150px;
+}
+
+thead {
+
+
+	color: #312A7D;
+	font-size: large;
+	text-align: left; 
+
+}
+
+table {
+		border-top:3px solid black;
+		width: 400px;
+
+}
+
+td {
+		
+		border-bottom:1px solid black;
+
+}
+
+h1 {
+
+	text-align: center;
+	margin: 0px;
+}
+
+h2 {
+
+	font-style: italic; 
+	color: #312A7D;
+	text-align: center;
+	margin: 0px;
+}

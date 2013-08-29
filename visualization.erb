@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Country GDP Megamix</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+
+</head>
+<body>
+
+<h1>Gross Domestic Product by Country</h1>
+<h2>from the World Bank</h2>
+<p align='center'>Our text will go here later</p>
+
+<div id="table">
+
+<table>
+	<thead>
+		<th>Country</th>
+		<th>GDP</th>
+	</thead>
+		<% @gdp_hash.each do |key, value| %>
+		<tr> 
+			<td><%= key %></td>
+			<td><%= value %></td>
+
+
+		</tr>
+		<%end%>
+</table>
+
+
+</div>
+</body>
+
+</html>
